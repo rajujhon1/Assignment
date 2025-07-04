@@ -1,4 +1,4 @@
-package Assigment;
+package Assignment;
 
 import java.time.Duration;
 import java.util.ArrayList;
@@ -17,7 +17,7 @@ import org.testng.annotations.Test;
 import org.openqa.selenium.chrome.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Assigment3 {
+public class Assignment3 {
 	
 	WebDriver driver = new ChromeDriver();
 	

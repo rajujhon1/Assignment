@@ -1,4 +1,4 @@
-package Assigment;
+package Assignment;
 
 import java.time.Duration;
 
@@ -11,7 +11,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 @Test
-public class Assigment6 {
+public class Assignment6 {
 	
 	WebDriver driver = new ChromeDriver();
 	@BeforeTest

@@ -1,4 +1,4 @@
-package Assigment;
+package Assignment;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -9,7 +9,7 @@ import org.testng.annotations.*;
 import java.time.Duration;
 import java.util.List;
 
-public class Assigment1 {
+public class Assignment1 {
 
 	WebDriver driver = new ChromeDriver();
 	@BeforeTest

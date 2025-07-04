@@ -1,4 +1,4 @@
-package Assigment;
+package Assignment;
 
 import java.time.Duration;
 import java.util.ArrayList;
@@ -13,7 +13,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
   
                            //Info : Assessment 4 - Rahul Shetty Table Data//
-public class Assigment4 {
+public class Assignment4 {
 
 	
 	public class TestPage {

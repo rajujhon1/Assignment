@@ -2,7 +2,7 @@
         //Info : Assessment 5 - RahulShetty Drop down x paths For Selecting countries option//
 
 
-package Assigment;
+package Assignment;
 
 import java.util.List;
 import java.time.Duration;
@@ -22,7 +22,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
                             
 
-public class  Assigment5 {
+public class  Assignment5 {
 	WebDriver driver = new ChromeDriver();
 	@BeforeTest
 	public void OPenURL() {
